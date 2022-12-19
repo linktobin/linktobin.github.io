@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "//"
 title = "Link to Bin"
 languageCode = "en-us"
 disqusShortname = "spf13"
