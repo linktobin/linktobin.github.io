@@ -1,14 +1,14 @@
-baseurl = "https://spf13.com/"
-title = "Hacking Management"
+baseurl = "/"
+title = "Link to Bin"
 languageCode = "en-us"
 disqusShortname = "spf13"
 theme = "spf13"
-copyright = "Copyright (c) 2008 - 2019, Steve Francia; all rights reserved."
+copyright = ""
 MetaDataFormat = "toml"
-googleAnalytics = "UA-7131036-1"
+googleAnalytics = ""
 
 [author]
-    name = "Steve Francia"
+    name = "Bin YE"
 
 [indexes]
     tag = "tags"
